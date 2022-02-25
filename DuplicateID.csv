@@ -1,0 +1,9 @@
+Product Id,Tit le,Category1,Category2,Price,Curren,Product_URL,Image_URL,INVSTA TUS,Is_Del,Is_RecTestName,Thumbs_Image_URL
+1,Prod_01,Category1_01,Category2_01,19.99,GBP,http://01.com,http://01.jpg,2,0,1,http://01_thumb.jpg
+2,Prod_02,Category1_02,Category2_02,19.99,GBP,http://02.com,http://02.jpg,2,0,1,http://02_thumb.jpg
+3,Prod_03,Category1_03 ,Category2_03,19.99,GBP,http://03.com,http://03.jpg,1,1,1,http://03_thumb.jpg
+2,Prod_04,Category1_04,Category2_04,19.99,GBP,http://04.com,http://04.jpg,6,0,1,http://04_thumb.jpg
+5,Prod_05,Category1_05,Category2_05,19.99,GBP,http://05.com,http://05.jpg,5,1,1,http://05_thumb.jpg
+3,Prod_01,Category1_01,Category2_01,19.99,GBP,http://01.com,http://01.jpg,2,0,1,http://01_thumb.jpg
+7,Prod_02,Category1_02,Category2_02,19.99,GBP,http://02.com,http://02.jpg,2,0,1,http://02_thumb.jpg
+2,Prod_03,Category1_03 ,Category2_03,19.99,GBP,http://03.com,http://03.jpg,1,1,1,http://03_thumb.jpg
